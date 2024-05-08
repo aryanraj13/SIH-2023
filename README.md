@@ -23,9 +23,13 @@ Our project aims to provide the government with clear and concise data on studen
 
 ## Features
 
+![alt text](https://github.com/aryanraj13/SIH-2023/blob/main/graph.png?raw=true)
+
 - **Comprehensive Filtering:** Filters dropout data by age, gender, region, and caste for detailed analysis.
   
 - **Interactive Visualizations:** Utilizes maps, charts, and graphs to present data in an accessible and user-friendly format.
+
+![alt text](https://github.com/aryanraj13/SIH-2023/blob/main/pie.png?raw=true)
   
 - **Data-Driven Policy Making:** Empowers government officials with the necessary insights to make informed decisions.
 
