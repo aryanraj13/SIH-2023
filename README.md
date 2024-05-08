@@ -2,11 +2,17 @@
 
 Our project aims to provide the government with clear and concise data on student dropout rates in our country. The tool visualizes dropout rates using maps, charts, and graphs, aiding the government in formulating informed policies based on comprehensive data analysis.
 
+![alt text](https://github.com/aryanraj13/SIH-2023/blob/main/home.png?raw=true)
+
+
 ## Objectives
 
 - **Clear Insights:** Visualizes student dropout rates based on age, gender, region, and caste, facilitating a nuanced understanding of the issue.
 
 - **Policy Formulation:** Aims to assist the government in creating effective policies by presenting data in a user-friendly manner.
+
+![alt text](https://github.com/aryanraj13/SIH-2023/blob/main/heatmap.webp?raw=true)
+![alt text](https://github.com/aryanraj13/SIH-2023/blob/main/login.png?raw=true)
 
 ## Technology Stack
 
